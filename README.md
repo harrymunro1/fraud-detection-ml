@@ -37,6 +37,4 @@ This project builds a fraud detection model using machine learning techniques on
 - XGBoost
 - Pandas / NumPy
 
----
 
-## 📂 Project Structure
